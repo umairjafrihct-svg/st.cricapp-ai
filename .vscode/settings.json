@@ -1,0 +1,5 @@
+{
+    "git.blame.ignoreWhitespace": true,
+    "git.blame.editorDecoration.disableHover": true,
+    "git.blame.editorDecoration.enabled": true
+}
